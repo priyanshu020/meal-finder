@@ -7,3 +7,5 @@ This Meal Finder application works with the [API](https://www.themealdb.com/) wh
 Also, you get the random button to generate a random meal.
   
 ## Deployment
+
+https://your-meal-finder.netlify.app/
